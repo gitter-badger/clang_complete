@@ -18,3 +18,5 @@ See doc/clang_complete.txt for help and license.
 This fork is intended for use with the CLIC project, which aims to enable a "smart grep"
 through an entire project for a symbol:
 https://github.com/exclipy/clang_indexer
+
+Join the chat at https://gitter.im/clang_complete/Lobby
